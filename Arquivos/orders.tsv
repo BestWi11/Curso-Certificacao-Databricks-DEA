@@ -1,0 +1,21 @@
+order_id	customer_id	order_date	status	total_amount	payment_method	shipping_address_type	discount_percent	notes
+1001	1	2024-06-01 10:30:00	delivered	9298.90	credit_card	home	5.0	Presente de aniversário
+1002	1	2024-06-15 14:22:00	delivered	299.00	pix	work	0.0	
+1003	2	2024-06-02 09:15:00	delivered	6798.00	credit_card	home	10.0	Parcelado em 12x
+1004	2	2024-06-20 16:45:00	delivered	2599.00	debit_card	home	0.0	
+1005	3	2024-06-05 11:00:00	delivered	1099.80	pix	delivery	15.0	Cupom PRIMEIRACOMPRA
+1006	3	2024-06-18 13:30:00	shipped	3299.00	credit_card	home	0.0	
+1007	4	2024-06-08 08:45:00	delivered	5398.90	credit_card	home	5.0	
+1008	4	2024-06-22 17:00:00	processing	18999.00	credit_card	home	0.0	Parcelado em 10x
+1009	5	2024-06-10 12:15:00	delivered	348.90	pix	work	0.0	
+1010	5	2024-06-25 10:00:00	shipped	699.00	debit_card	home	0.0	
+1011	6	2024-06-12 15:30:00	delivered	4499.00	credit_card	home	0.0	
+1012	6	2024-06-28 09:45:00	processing	12999.00	credit_card	home	8.0	Black Friday antecipada
+1013	7	2024-06-14 11:20:00	delivered	3198.90	pix	beach_house	10.0	
+1014	7	2024-07-01 14:00:00	pending	2299.00	credit_card	home	0.0	Aguardando confirmação
+1015	8	2024-06-16 16:30:00	delivered	899.90	debit_card	home	0.0	
+1016	1	2024-07-02 10:00:00	pending	4299.00	credit_card	home	5.0	
+1017	3	2024-07-03 11:30:00	pending	1899.00	pix	home	0.0	
+1018	4	2024-07-04 09:00:00	cancelled	699.00	credit_card	home	0.0	Cliente cancelou
+1019	6	2024-07-05 14:15:00	pending	8999.00	credit_card	home	12.0	VIP discount
+1020	2	2024-07-06 16:00:00	pending	459.00	pix	home	0.0	
