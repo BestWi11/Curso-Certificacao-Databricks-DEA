@@ -1,4 +1,4 @@
-# 📚 Curso de Preparação - Databricks Data Engineer Associate
+# 📚 Curso de Preparação - Databricks Data Engineer Associate (DEA)
 
 Material de estudo para a certificação **Databricks Certified Data Engineer Associate**, com foco em ambientes **Azure Databricks**.
 
@@ -16,6 +16,8 @@ A certificação valida a capacidade de utilizar a **Databricks Data Intelligenc
 
 | Pasta | Tópico | Descrição |
 |-------|--------|-----------|
+| `01` | Introdução ao Curso | Boas vindas e introdução |
+| `02` | Criando Conta Free na Azure |Criando conta Azure com bonus de $200 |
 | `03` | Componentes Databricks | Arquitectura, clusters, workspaces |
 | `04` | Introdução ao Unity Catalog | Governança, metastore, namespaces |
 | `05` | Databricks Lakehouse | Delta Lake, arquitectura medallion |
@@ -25,7 +27,8 @@ A certificação valida a capacidade de utilizar a **Databricks Data Intelligenc
 | `09` | Databricks Jobs | Orquestração, triggers, task values |
 | `10` | Databricks SQL | Warehouses, dashboards, alertas |
 | `11` | Governança de Dados | Permissões, GRANT/REVOKE, security |
-
+| `12` | Simulado Certificação | Simulado de Perguntas Certificação |
+| `13` | Condideração Final| Encerramento do treinamento |
 ---
 
 ## 🎓 Sobre o Exame
@@ -39,7 +42,7 @@ A certificação valida a capacidade de utilizar a **Databricks Data Intelligenc
 | **Taxa de Registo** | $200 USD |
 | **Idiomas** | English, 日本語, Português BR, 한국어 |
 | **Modalidade** | Online ou centro de testes |
-| **Pré-requisitos** | Nenhum (treino recomendado) |
+| **Pré-requisitos** | Python e SQL nível básico |
 | **Experiência Recomendada** | 6+ meses hands-on |
 | **Validade** | 2 anos |
 | **Recertificação** | Refazer exame na versão actual |
@@ -78,7 +81,7 @@ Cada pasta contém:
 
 ## 📖 Como Usar
 
-1. **Estudo sequencial** — Seguir a numeração das pastas (03 → 11)
+1. **Estudo sequencial** — Seguir a numeração das pastas (01 → 12)
 2. **Revisão por tópico** — Focar em áreas específicas de dificuldade
 3. **Prática hands-on** — Executar notebooks no ambiente Azure Databricks
 4. **Revisar Exam Guide** — Identificar gaps no conhecimento
